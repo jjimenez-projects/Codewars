@@ -3,6 +3,7 @@
 ## What does it consist of?
 
 - This repo will consist of completing Codewars challenges and posting the solutions.
+- Example code and solution have been provided below.
 
 ### Example code question -
 
